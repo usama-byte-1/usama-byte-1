@@ -10,7 +10,7 @@ While **Ruby on Rails** is my core expertise, I also enjoy working with **Django
 
 ## 💼 Professional Experience
 
-- 👨‍💻 Developed and maintained numerous Rails applications across versions 4 to 7, including monolith and microservice architectures.
+- 👨‍💻 Developed and maintained numerous Rails applications across versions 5 to 8, including monolith and microservice architectures.
 - 🏥 Built healthcare platforms with secure data flows, HL7 integrations, and intelligent analytics dashboards.
 - 🛒 Created and optimized e-commerce backends, improving system performance by **33%** and reducing load times significantly.
 - 🏢 Contributed to human resource platforms and rental marketing systems, streamlining user flows and automating operations.
