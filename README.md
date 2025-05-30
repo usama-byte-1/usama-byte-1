@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 
-I'm a results-driven **Software Engineer** with over **3 years of experience** building scalable and high-performance applications, primarily using **Ruby on Rails**. I’ve worked across multiple industries including **real estate, healthcare, e-commerce**, and **HR tech**, delivering efficient solutions tailored to real-world problems.
+I'm a results-driven **Software Engineer** with over **3 years of experience** building scalable and high-performance applications, primarily using **Ruby on Rails**. I’ve worked across multiple industries including **real estate, healthcare, e-commerce**, **Staffing and Recruiting** and **HR tech**, delivering efficient solutions tailored to real-world problems.
 
 While **Ruby on Rails** is my core expertise, I also enjoy working with **Django**, **React**, and cloud-native technologies to craft modern web applications. From optimizing system performance and modernizing legacy codebases to architecting secure APIs, I take pride in writing clean, maintainable code that makes an impact.
 
